@@ -1,0 +1,41 @@
+Use the PushD command to quickly create a temporary drive map while remaining in the Command Prompt
+https://www.techrepublic.com/blog/windows-and-office/use-the-pushd-popd-commands-for-quick-network-drive-mapping-in-windows-7/
+
+Change users' passwords from the command line
+https://www.zdnet.com/article/change-users-passwords-from-the-command-line/
+
+Add new user account from command line (CMD
+https://www.windows-commandline.com/add-user-from-command-line/
+
+Windows: Join a workgroup or domain from command line
+https://michlstechblog.info/blog/windows-join-a-workgroup-or-domain-from-command-line/
+
+Configure Static IP with the Netsh Command-Line Utility
+http://techgenix.com/configurestaticipwiththenetshcommand-lineutility/
+
+Allow ICMP Echo Request Pings Firewall
+https://www.howtogeek.com/howto/windows-vista/allow-pings-icmp-echo-request-through-your-windows-vista-firewall/
+
+How to Delete Large Folders FAST
+https://www.ghacks.net/2017/07/18/how-to-delete-large-folders-in-windows-super-fast/
+
+CPU Temperature
+https://www.howtogeek.com/howto/windows-vista/ever-wonder-what-temperature-your-cpu-is-running-at/
+
+Computer Specs
+https://www.ccleaner.com/speccy
+
+microsoft/PowerToys
+https://github.com/microsoft/PowerToys
+
+🎨 Beautiful images of your code — from right inside your terminal
+https://github.com/mixn/carbon-now-cli
+
+Remove Duplicate Lines
+https://www.textfixer.com/tools/remove-duplicate-lines.php
+
+Notion Note-taking App
+https://www.notion.so/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier
+
+How to Create and Delete Files and Directories from Windows Command Prompt
+https://www.wikihow.com/Create-and-Delete-Files-and-Directories-from-Windows-Command-Prompt
